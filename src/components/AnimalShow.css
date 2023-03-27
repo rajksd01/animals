@@ -1,0 +1,21 @@
+
+
+.animalContainer{
+  margin: 10px;
+    position: relative;
+    box-shadow: 0px  3px 4px lightgray;
+    border-radius:5px ;
+}
+
+.animal{
+height:150px;
+
+
+
+
+}
+.heart{
+    position: absolute;
+    bottom: 5%;
+    left: 0%;
+}

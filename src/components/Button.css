@@ -1,0 +1,14 @@
+.animalList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.buttonDesign{
+    background-color: lightgreen;
+    border: 1px solid green;
+    height: 50px;
+    border-radius: 5px;
+
+
+}
