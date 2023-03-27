@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .footerIdentity{
+    bottom:0%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+  }
